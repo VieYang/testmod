@@ -5,5 +5,5 @@ func Hello() string {
 }
 
 func Version() string {
-	return "v0.2"
+	return "v0.2.0-test-1.0"
 }
